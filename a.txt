@@ -1,1 +1,2 @@
-Learning GIT
+Learning GI
+Making changesT
