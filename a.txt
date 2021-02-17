@@ -1,2 +1,7 @@
 Learning GI
+
 Making changesT
+
+Testing
+
+Deployement
